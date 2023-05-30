@@ -7,10 +7,10 @@ function App() {
 
 
 
-  
+
   return (
     <div className='App' style={{display:'flex',flexDirection:'column',alignItems:'center'}}>
-      <h1>Carga de Estudiantes</h1>
+      <h1>Carga de todos Estudiantes</h1>
       <Card/>
       <form style={{
           display:'flex',
